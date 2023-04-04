@@ -45,9 +45,10 @@ export default function Whiteboard(props: propType) {
       <div
         id="app"
         style={{
-          width: "950px",
-          height: "1024px",
-          border: "1px solid #EAEAEA",
+          width: "65vw",
+          height: "85vh",
+          // border: "1px solid #d7c9c9",
+          // borderRadius: "20px",
         }}
       ></div>
     </div>
